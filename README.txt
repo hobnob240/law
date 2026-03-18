@@ -1,11 +1,18 @@
-HOW TO USE
+This is the corrected decorator site pack.
 
-1. Download this zip.
-2. Extract it.
-3. Open your GitHub repository.
-4. Delete the old site files if you want this full version to replace the current site.
-5. Drag ALL extracted files and folders into the repo.
-6. Commit the changes.
+What changed:
+- Painter & decorator styling instead of the law template
+- Wolverhampton-based wording
+- Paint-splash themed visuals
+- Ready-to-drag GitHub structure
 
-This pack is a complete static site, not just image snippets.
-The homepage file is index.html.
+How to use:
+1. Download the zip
+2. Extract it
+3. Open your GitHub repo
+4. Drag all extracted files/folders into the repo
+5. Commit the changes
+
+Note:
+I used a text-based brand mark because your exact uploaded paint-splash logo is not available in this chat session.
+If you upload that logo again, I can slot it into the header and hero and re-zip it.
