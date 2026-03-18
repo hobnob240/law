@@ -1,8 +1,11 @@
-Use these files to give the whole /law site the painted brush-stroke look.
+HOW TO USE
 
-Replace:
-- assets/css/styles.css
-- assets/images/paint-bg.png
-- assets/images/logo.jpg
+1. Download this zip.
+2. Extract it.
+3. Open your GitHub repository.
+4. Delete the old site files if you want this full version to replace the current site.
+5. Drag ALL extracted files and folders into the repo.
+6. Commit the changes.
 
-This keeps the layout structure but changes the visual theme across the whole site.
+This pack is a complete static site, not just image snippets.
+The homepage file is index.html.
